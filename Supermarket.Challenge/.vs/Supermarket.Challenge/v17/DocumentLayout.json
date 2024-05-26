@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9538E3F2-93B2-49C9-B296-B0D54AB2CBC2}|Supermarket.Challenge.Tests\\Supermarket.Challenge.Tests.csproj|c:\\repos\\supermarket.challenge\\supermarket.challenge\\supermarket.challenge.tests\\checkoutservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9538E3F2-93B2-49C9-B296-B0D54AB2CBC2}|Supermarket.Challenge.Tests\\Supermarket.Challenge.Tests.csproj|solutionrelative:supermarket.challenge.tests\\checkoutservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252556D5-9C3E-43E2-B291-9F7149222365}|Supermarket.Challenge.Services\\Supermarket.Challenge.Services.csproj|c:\\repos\\supermarket.challenge\\supermarket.challenge\\supermarket.challenge.services\\data\\productsdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252556D5-9C3E-43E2-B291-9F7149222365}|Supermarket.Challenge.Services\\Supermarket.Challenge.Services.csproj|solutionrelative:supermarket.challenge.services\\data\\productsdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C2898B-7DFA-4594-A096-90F8A59FD93B}|Supermarket.Challenge.Domain\\Supermarket.Challenge.Domain.csproj|c:\\repos\\supermarket.challenge\\supermarket.challenge\\supermarket.challenge.domain\\entities\\ticketdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C2898B-7DFA-4594-A096-90F8A59FD93B}|Supermarket.Challenge.Domain\\Supermarket.Challenge.Domain.csproj|solutionrelative:supermarket.challenge.domain\\entities\\ticketdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C2898B-7DFA-4594-A096-90F8A59FD93B}|Supermarket.Challenge.Domain\\Supermarket.Challenge.Domain.csproj|c:\\repos\\supermarket.challenge\\supermarket.challenge\\supermarket.challenge.domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C2898B-7DFA-4594-A096-90F8A59FD93B}|Supermarket.Challenge.Domain\\Supermarket.Challenge.Domain.csproj|solutionrelative:supermarket.challenge.domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C2898B-7DFA-4594-A096-90F8A59FD93B}|Supermarket.Challenge.Domain\\Supermarket.Challenge.Domain.csproj|c:\\repos\\supermarket.challenge\\supermarket.challenge\\supermarket.challenge.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C2898B-7DFA-4594-A096-90F8A59FD93B}|Supermarket.Challenge.Domain\\Supermarket.Challenge.Domain.csproj|solutionrelative:supermarket.challenge.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C2898B-7DFA-4594-A096-90F8A59FD93B}|Supermarket.Challenge.Domain\\Supermarket.Challenge.Domain.csproj|c:\\repos\\supermarket.challenge\\supermarket.challenge\\supermarket.challenge.domain\\config\\dataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C2898B-7DFA-4594-A096-90F8A59FD93B}|Supermarket.Challenge.Domain\\Supermarket.Challenge.Domain.csproj|solutionrelative:supermarket.challenge.domain\\config\\dataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutServiceTest.cs",
+              "DocumentMoniker": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Tests\\CheckoutServiceTest.cs",
+              "RelativeDocumentMoniker": "Supermarket.Challenge.Tests\\CheckoutServiceTest.cs",
+              "ToolTip": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Tests\\CheckoutServiceTest.cs",
+              "RelativeToolTip": "Supermarket.Challenge.Tests\\CheckoutServiceTest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:30:30.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsDataSource.cs",
+              "DocumentMoniker": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Services\\Data\\ProductsDataSource.cs",
+              "RelativeDocumentMoniker": "Supermarket.Challenge.Services\\Data\\ProductsDataSource.cs",
+              "ToolTip": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Services\\Data\\ProductsDataSource.cs",
+              "RelativeToolTip": "Supermarket.Challenge.Services\\Data\\ProductsDataSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:30:12.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketDetail.cs",
+              "DocumentMoniker": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Domain\\Entities\\TicketDetail.cs",
+              "RelativeDocumentMoniker": "Supermarket.Challenge.Domain\\Entities\\TicketDetail.cs",
+              "ToolTip": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Domain\\Entities\\TicketDetail.cs",
+              "RelativeToolTip": "Supermarket.Challenge.Domain\\Entities\\TicketDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:30:03.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Domain\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "Supermarket.Challenge.Domain\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Domain\\Entities\\Ticket.cs",
+              "RelativeToolTip": "Supermarket.Challenge.Domain\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:30:01.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Supermarket.Challenge.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Supermarket.Challenge.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:29:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataConfig.cs",
+              "DocumentMoniker": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Domain\\Config\\DataConfig.cs",
+              "RelativeDocumentMoniker": "Supermarket.Challenge.Domain\\Config\\DataConfig.cs",
+              "ToolTip": "C:\\Repos\\Supermarket.Challenge\\Supermarket.Challenge\\Supermarket.Challenge.Domain\\Config\\DataConfig.cs",
+              "RelativeToolTip": "Supermarket.Challenge.Domain\\Config\\DataConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:29:51.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

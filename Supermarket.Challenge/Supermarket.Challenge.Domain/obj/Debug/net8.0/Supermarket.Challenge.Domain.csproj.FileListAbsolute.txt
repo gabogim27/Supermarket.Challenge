@@ -1,0 +1,12 @@
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\bin\Debug\net8.0\Supermarket.Challenge.Domain.deps.json
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\bin\Debug\net8.0\Supermarket.Challenge.Domain.dll
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\bin\Debug\net8.0\Supermarket.Challenge.Domain.pdb
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\Supermarket.Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\Supermarket.Challenge.Domain.AssemblyInfoInputs.cache
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\Supermarket.Challenge.Domain.AssemblyInfo.cs
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\Supermarket.Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\Supermarket.Challenge.Domain.sourcelink.json
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\Supermarket.Challenge.Domain.dll
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\refint\Supermarket.Challenge.Domain.dll
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\Supermarket.Challenge.Domain.pdb
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Domain\obj\Debug\net8.0\ref\Supermarket.Challenge.Domain.dll

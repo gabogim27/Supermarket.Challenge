@@ -1,0 +1,16 @@
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\bin\Debug\net8.0\Supermarket.Challenge.Services.deps.json
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\bin\Debug\net8.0\Supermarket.Challenge.Services.dll
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\bin\Debug\net8.0\Supermarket.Challenge.Services.pdb
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\bin\Debug\net8.0\Supermarket.Challenge.Domain.dll
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\bin\Debug\net8.0\Supermarket.Challenge.Domain.pdb
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermarket.Challenge.Services.csproj.AssemblyReference.cache
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermarket.Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermarket.Challenge.Services.AssemblyInfoInputs.cache
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermarket.Challenge.Services.AssemblyInfo.cs
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermarket.Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermarket.Challenge.Services.sourcelink.json
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermar.307A8556.Up2Date
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermarket.Challenge.Services.dll
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\refint\Supermarket.Challenge.Services.dll
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\Supermarket.Challenge.Services.pdb
+C:\Repos\Supermarket.Challenge\Supermarket.Challenge\Supermarket.Challenge.Services\obj\Debug\net8.0\ref\Supermarket.Challenge.Services.dll
